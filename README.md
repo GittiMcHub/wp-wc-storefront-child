@@ -1,7 +1,7 @@
 # Storefront Child
 Childtheme for the official WooCommerce Theme Storefront with a smaller sticky header and Image gallery.
 
-[[screenshot.png]]
+!['Screenshot'](screenshot.png)
 
 # Prerequisites / tested with
 - Wordpress 5.6
