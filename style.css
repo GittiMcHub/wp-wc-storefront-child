@@ -1,0 +1,36 @@
+/*
+ Theme Name:   Storefront Child
+ Description:  Childtheme for the official WooCommerce Theme Storefront with a smaller sticky header and Image gallery. 
+ Author:       GittiMcHub
+ Author URI:   https://github.com/GittiMcHub/
+ Template:     storefront
+ Version:      1.0
+ Text Domain:  storefront-child
+*/
+#masthead {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding-top: 0px !important;
+}
+#masthead .custom-logo-link img {
+  width: auto;
+  height: 64px;
+}
+.site-branding {
+  margin-bottom: 0px;
+}
+
+.site-search {
+  margin-bottom: 0px;
+}
+.main-navigation ul.menu li a,
+.main-navigation ul.nav-menu li a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.site-header-cart .cart-contents {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
