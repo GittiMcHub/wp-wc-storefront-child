@@ -21,6 +21,16 @@
   margin-bottom: 0px;
 }
 
+.storefront-full-width-content .woocommerce-products-header {
+	padding: 0 0 0 0px;
+}
+
+ul.products li.product {
+	background-color: white;
+	border: 1px solid lightgray;
+	border-radius: 3px;
+}
+
 .site-search {
   margin-bottom: 0px;
 }
